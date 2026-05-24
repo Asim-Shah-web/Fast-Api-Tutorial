@@ -1,7 +1,7 @@
 # Fast API Tutorial Repository
 
 A beginner-friendly collection of FastAPI notes, learning resources, and future tutorial content for building modern Python APIs.
-
+(not fully updated yet soon to be completed)
 ## 📘 What this repo contains
 
 Currently, this repository includes:
@@ -35,13 +35,7 @@ This repo is meant to help you learn FastAPI step by step, from the basics to pr
 - Deployment basics
 - Best practices for real-world APIs
 
-## 🗂️ Repository structure
 
-```text
-Fast-Api-Tutorial/
-├── fastApi_Notes.pdf
-├── README.md
-└── LICENSE
 ```
 
 ## 🎯 Learning goals
@@ -55,7 +49,7 @@ By exploring this repository, you will:
 
 ## 📚 How to use this repo
 
-1. Start with the notes in `fastApi_Notes.pdf`
+1. Start with the notes in `fastApi_Notes.pdf` (youtube notes i will make mine in next few weeks)
 2. Follow the topic-wise tutorial roadmap in this README
 3. Practice each concept by building small FastAPI projects
 4. Revisit the tutorials as your knowledge grows
